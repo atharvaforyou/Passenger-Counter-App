@@ -1,0 +1,46 @@
+h1{
+    color : #ff0000;
+    text-align: center;
+}
+
+h2{
+    color: #000000;
+    text-align: center;
+    font-size: 50px;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+
+#increment-btn{
+    background: #6513cf;
+}
+
+#save-btn{
+    background: #6513cf;
+}
+
+#del-btn{
+    background: #ff0000;
+}
+
+#decrement-btn{
+    background: #6513cf;
+}
+
+#reset-btn{
+    background: #6513cf;
+}
+
+#total-btn{
+    background: #289c0b;
+}
